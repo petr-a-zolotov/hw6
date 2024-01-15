@@ -48,7 +48,7 @@ public class Main {
             sum = sum + deposit;
             System.out.println("Месяц" + month + "сумма накоплений составит" + sum);
         }
-        System.out.println("Задание 10 ");
+        System.out.println("Задание 10. ");
         for (int a = 1; a <= 10; a++) {
             int b = 2;
             double value = a * b;
